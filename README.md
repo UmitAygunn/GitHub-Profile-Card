@@ -4,6 +4,8 @@ This project is a GitHub profile card site created using HTML, CSS, and JavaScri
 
 # Demo
 
+![GitHub Profile Card](https://github.com/UmitAygunn/GitHub-Profile-Card/assets/140657845/cda58398-699c-4ed4-a848-3130a7961998)
+
 Live Demo - Explore the live demo of the GitHub profile card site to access and display information about GitHub users.
 1) https://6533afce57ebb913649f71d2--dynamic-ganache-f9ec88.netlify.app/
 
